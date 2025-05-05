@@ -1,10 +1,10 @@
-# 🔐 SmartLockApp
+#  SmartLockApp
 
 SmartLockApp is a mobile application built with **React Native** to control a smart door lock system using **MQTT messaging** and a **Flask-based API backend**. It supports secure **user authentication**, **device locking/unlocking**, **reassignment of lock ownership**, and **real-time issue tracking** using an ESP32 device.
 
 ---
 
-## 📱 Features
+##  Features
 
 - **Lock/Unlock Control** — Users can lock or unlock their smart door remotely.
 - **Sign Up / Login** — Secure user registration and JWT-based authentication.
@@ -16,7 +16,7 @@ SmartLockApp is a mobile application built with **React Native** to control a sm
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer         | Technology                        |
 |---------------|-----------------------------------|
@@ -29,7 +29,7 @@ SmartLockApp is a mobile application built with **React Native** to control a sm
 
 ---
 
-## 📂 Folder Structure (Simplified)
+##  Folder Structure (Simplified)
 
 SmartLockApp/
 ├── components/
@@ -49,7 +49,7 @@ SmartLockApp/
 
 ---
 
-## 📡 API Endpoints (Backend)
+##  API Endpoints (Backend)
 
 | Method | Endpoint                             | Description                        |
 |--------|--------------------------------------|------------------------------------|
@@ -62,7 +62,7 @@ SmartLockApp/
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 
